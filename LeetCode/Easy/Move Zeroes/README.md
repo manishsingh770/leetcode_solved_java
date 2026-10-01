@@ -9,7 +9,7 @@
 | **Tags** | Array, Two Pointers |
 | **Link** | [View Problem](https://leetcode.com/problems/move-zeroes/) |
 | **Runtime** | 2 ms |
-| **Memory** | 47.6 MB |
+| **Memory** | 47.9 MB |
 
 ## Problem Description
 
