@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Toeplitz Matrix](./LeetCode/Easy/Toeplitz%20Matrix) - *Easy*
 - [Transpose Matrix](./LeetCode/Easy/Transpose%20Matrix) - *Easy*
 - [Reshape the Matrix](./LeetCode/Easy/Reshape%20the%20Matrix) - *Easy*
 - [Matrix Diagonal Sum](./LeetCode/Easy/Matrix%20Diagonal%20Sum) - *Easy*
