@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Reshape the Matrix](./LeetCode/Easy/Reshape%20the%20Matrix) - *Easy*
 - [Matrix Diagonal Sum](./LeetCode/Easy/Matrix%20Diagonal%20Sum) - *Easy*
 - [Can Place Flowers](./LeetCode/Easy/Can%20Place%20Flowers) - *Easy*
 - [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) - *Easy*
