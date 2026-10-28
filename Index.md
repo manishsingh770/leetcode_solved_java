@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) - *Medium*
 - [Find Smallest Letter Greater Than Target](./LeetCode/Easy/Find%20Smallest%20Letter%20Greater%20Than%20Target) - *Easy*
 - [Binary Search](./LeetCode/Easy/Binary%20Search) - *Easy*
 - [Flipping an Image](./LeetCode/Easy/Flipping%20an%20Image) - *Easy*
